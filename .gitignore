@@ -1,0 +1,9 @@
+# Cursor IDE files
+.cursorindexingignore
+
+# SpecStory files
+.specstory/
+
+# Obsidian files
+.obsidian/
+
