@@ -558,16 +558,6 @@ We envision a future where:
 
 ---
 
-### 🔎 Search & LLM
-*Next-generation search powered by large language models*
-
-| Direction           | GitHub Link                                                                                                                                                                          | Description                             | Paper Link | Content Type | Difficulty  | Update Status | Rec Score |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- | ---------- | ------------ | ----------- | ------------- | --------- |
-| Large Search Models | [Wu-Zongyu/Awesome-Large-Search-Models](https://github.com/Wu-Zongyu/Awesome-Large-Search-Models) ![](https://img.shields.io/github/stars/Wu-Zongyu/Awesome-Large-Search-Models.svg) | Resources for large-scale search models |            | 📄Papers     | ⭐⭐⭐Advanced | 🟢Active      | ★★★★★     |
-
-
----
-
 ### 📚 arXiv & Paper Tools
 *Stay updated with the latest research papers*
 
