@@ -268,6 +268,7 @@ We envision a future where:
 | Courses | [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) ![](https://img.shields.io/github/stars/prakhar1989/awesome-courses.svg) | List of awesome university courses for learning Computer Science |  | 📚Tutorials | ⭐Beginner | 🟡Stable | ★★★★★ |
 | CS Books | [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) ![](https://img.shields.io/github/stars/imarvinle/awesome-cs-books.svg) | Collection of computer science books and resources |  | 📚Books | ⭐Beginner | 🟡Stable | ★★★★★ |
 | AIGC Tutorials | [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) ![](https://img.shields.io/github/stars/luban-agi/Awesome-AIGC-Tutorials.svg) | Comprehensive tutorials for AI-generated content |  | 📚Tutorials | ⭐⭐Intermediate | 🟢Active | ★★★★☆ |
+| Agentic AI Patterns | [Learn Agentic Patterns](https://learnagenticpatterns.com) | Free interactive curriculum covering 21 agentic AI design patterns with code examples and architecture diagrams |  | 📚Tutorials | ⭐⭐Intermediate | 🟢Active | ★★★★☆ |
 
 ---
 
