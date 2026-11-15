@@ -233,6 +233,7 @@ We envision a future where:
 | AI agents & RAG | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ![](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps.svg)              | Collection of awesome LLM applications with agents and RAG |            | 💻Code+📚Tutorials | ⭐⭐Intermediate | 🟢Active | ★★★★★     |
 | Deep Research   | [0russwest0/Awesome-Agent-RL](https://github.com/0russwest0/Awesome-Agent-RL?tab=readme-ov-file) ![](https://img.shields.io/github/stars/0russwest0/Awesome-Agent-RL.svg) | Deep research on agent-based reinforcement learning        |            | 📄Papers | ⭐⭐⭐Advanced | 🟢Active | ★★★★★     |
 | GraphRAG        | [DEEP-PolyU/Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) ![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG.svg)                    | A curated list of papers and resources on GraphRAG         |            | 📄Papers | ⭐⭐⭐Advanced | 🟢Active | ★★★★☆     |
+| Remote MCP      | [No Stairs Please MCP](https://nostairsplease.com/mcp) | Remote MCP server for 2,200+ North American live-music venues and tour routing | | 🌐MCP Server | ⭐Beginner | 🟢Active | ★★★★☆ |
 
 ---
 
